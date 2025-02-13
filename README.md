@@ -32,10 +32,5 @@ Morse Code Reference
  Wikipedia Entry for Morse Code
  ![International_Morse_Code svg](https://github.com/user-attachments/assets/9876c0e8-1cc9-42cd-97a4-47404fb12e03)
 
-License
-
-This project is licensed under the MIT License.
-
-Contributions
-
-Feel free to fork this repository and submit pull requests with improvements!
+Author
+Developed by Brianna Pilarte
